@@ -1,7 +1,7 @@
 # material-de-aprendizado
 Coleção de materiais e links para aprendizado de C++, em português ou inglês.
 
-## Boas praticas
+## Boas práticas
 
 - [C++ on Sea 2019: Kate Gregory "Oh The Humanity!" - Inglês](https://www.youtube.com/watch?v=SzoquBerhUc)
 - [CppCon 2019: Kate Gregory “Naming is Hard: Let's Do Better” - Inglês](https://www.youtube.com/watch?v=MBRoCdtZOYg)
