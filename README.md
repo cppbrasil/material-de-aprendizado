@@ -17,12 +17,14 @@ C++
 - [CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?v=XkDEzfpdcSg)
 - [CppCon 2015: Kate Gregory “Stop Teaching C"](https://www.youtube.com/watch?v=YnWhqhNdYyk)
 
-### EBooks
+### EBooks / Tutoriais
 
 #### Inglês
 
 - [C++ Notes for Professionals](https://books.goalkicker.com/CPlusPlusBook/)
 - [The Joint Strike Fighter air vehicle C++ coding standards - Lockheed Martin Corporation](http://www.stroustrup.com/JSF-AV-rules.pdf)
+- [Learn C++](https://www.learncpp.com/)
+
 
 
 C
