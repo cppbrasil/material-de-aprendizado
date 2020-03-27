@@ -25,7 +25,7 @@ consistente é bem vindo, mas para um guia de boas sugestões, procure material:
 Para material que não esteja disponível de maneira gratuita, é possível deixar
 a indicação, mas evite inserir links diretos para compra em uma plataforma
 específica, exceto se por alguma razão for o único lugar onde o material está
-disponíel.
+disponível.
 
 
 Material Escrito
