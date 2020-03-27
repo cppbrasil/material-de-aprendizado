@@ -17,7 +17,7 @@ C++
 - [CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?v=XkDEzfpdcSg)
 - [CppCon 2015: Kate Gregory “Stop Teaching C"](https://www.youtube.com/watch?v=YnWhqhNdYyk)
 
-### EBooks / Tutoriais
+### EBooks
 
 #### Inglês
 
