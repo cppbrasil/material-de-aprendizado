@@ -26,13 +26,13 @@ C++
 - [NES Emulator From Scratch - javidx9](https://www.youtube.com/watch?v=nViZg02IMQo&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
 
 ### EBooks
-[Learning C++ eBook - Rip Tutoral](https://riptutorial.com/ebook/cplusplus)
 
 #### Inglês
 
 - [C++ Notes for Professionals](https://books.goalkicker.com/CPlusPlusBook/)
 - [The Joint Strike Fighter air vehicle C++ coding standards - Lockheed Martin Corporation](http://www.stroustrup.com/JSF-AV-rules.pdf)
 - [Learn C++](https://www.learncpp.com/)
+- [Learning C++ eBook - Rip Tutoral](https://riptutorial.com/ebook/cplusplus)
 
 
 
