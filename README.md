@@ -27,6 +27,7 @@ C++
 
 #### Inglês
 
+- [C++ Best Practices - Jason Turner](https://legacy.gitbook.com/download/pdf/book/lefticus/cpp-best-practices)
 - [C++ Notes for Professionals](https://books.goalkicker.com/CPlusPlusBook/)
 - [The Joint Strike Fighter air vehicle C++ coding standards - Lockheed Martin Corporation](http://www.stroustrup.com/JSF-AV-rules.pdf)
 - [Learn C++](https://www.learncpp.com/)
