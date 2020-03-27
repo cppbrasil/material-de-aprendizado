@@ -21,9 +21,12 @@ C++
 
 - [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
 - [CppCast - Rob Irving and Jason Turner](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA/playlists)
+- [CppNuts - Rupesh Yadav](https://www.youtube.com/user/MrRupeshyadav/playlists)
+- [C++ - Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [NES Emulator From Scratch - javidx9](https://www.youtube.com/watch?v=nViZg02IMQo&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
 
 ### EBooks
+[Learning C++ eBook - Rip Tutoral](https://riptutorial.com/ebook/cplusplus)
 
 #### Inglês
 
