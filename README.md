@@ -17,6 +17,12 @@ C++
 - [CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?v=XkDEzfpdcSg)
 - [CppCon 2015: Kate Gregory “Stop Teaching C"](https://www.youtube.com/watch?v=YnWhqhNdYyk)
 
+##### Playlists
+
+- [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
+- [CppCast - Rob Irving and Jason Turner](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA/playlists)
+- [NES Emulator From Scratch - javidx9](https://www.youtube.com/watch?v=nViZg02IMQo&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
+
 ### EBooks
 
 #### Inglês
