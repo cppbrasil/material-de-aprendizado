@@ -41,7 +41,7 @@ repositório, o material deve:
 
 No caso do material ser de autoria do contribuidor e não estar indicado como
 estando sob uma licença específica, uma licença específica, ele estará sob a
-licença padrão do repositório, [CC-0](LICENSE.md).
+licença padrão do repositório, [CC-0](LICENSE).
 
 
 Recomendações Gerais
