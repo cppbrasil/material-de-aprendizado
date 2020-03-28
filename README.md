@@ -64,6 +64,7 @@ Outros materiais interessantes
 
 - [C Compiler Explorer - Online](https://c.godbolt.org/)
 - [C++ Compiler Explorer - Online](https://godbolt.org/)
+- [C++ Insights - Expansor de código para visualizar transformações pelo compilador](https://cppinsights.io/)
 - [ClangFormat - Conjunto de ferramentas para formatação de código](https://clang.llvm.org/docs/ClangFormat.html)
 - [Clang-Tidy - Analisador estático para C++](https://clang.llvm.org/extra/clang-tidy/)
 - [Clazy - Plugin de avisos para Clang com foco em Qt](https://kde.org/applications/development/org.kde.clazy)
