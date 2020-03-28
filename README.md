@@ -60,6 +60,11 @@ Outros materiais interessantes
 
 - [Algorithms Notes for Professionals](https://books.goalkicker.com/AlgorithmsBook/)
 
+### Ferramentas
+
+- [C Compiler Explorer - Online](https://c.godbolt.org/)
+- [C++ Compiler Explorer - Online](https://godbolt.org/)
+
 
 Licença
 -------
