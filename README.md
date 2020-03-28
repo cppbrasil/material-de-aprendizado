@@ -64,7 +64,7 @@ Outros materiais interessantes
 
 - [C Compiler Explorer - Online](https://c.godbolt.org/)
 - [C++ Compiler Explorer - Online](https://godbolt.org/)
-- [Quick C++ Benchmark](http://quick-bench.com/)
+- [Quick C++ Benchmark - Online](http://quick-bench.com/)
 
 
 Licença
