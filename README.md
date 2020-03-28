@@ -66,6 +66,7 @@ Outros materiais interessantes
 - [C++ Compiler Explorer - Online](https://godbolt.org/)
 - [ClangFormat - Conjunto de ferramentas para formatação de código](https://clang.llvm.org/docs/ClangFormat.html)
 - [Clang-Tidy - Analisador estático para C++](https://clang.llvm.org/extra/clang-tidy/)
+- [Clazy - Plugin de avisos para Clang com foco em Qt](https://kde.org/applications/development/org.kde.clazy)
 - [Quick C++ Benchmark - Online](http://quick-bench.com/)
 
 
