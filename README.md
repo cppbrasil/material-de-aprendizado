@@ -25,6 +25,8 @@ C++
 
 - [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
 - [CppCast - Rob Irving and Jason Turner](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA/playlists)
+- [CppNuts - Rupesh Yadav](https://www.youtube.com/user/MrRupeshyadav/playlists)
+- [C++ - Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [NES Emulator From Scratch - javidx9](https://www.youtube.com/watch?v=nViZg02IMQo&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
 
 ### EBooks
@@ -34,6 +36,7 @@ C++
 - [C++ Best Practices - Jason Turner](https://legacy.gitbook.com/download/pdf/book/lefticus/cpp-best-practices)
 - [C++ Notes for Professionals](https://books.goalkicker.com/CPlusPlusBook/)
 - [Learn C++](https://www.learncpp.com/)
+- [Learning C++ eBook - Rip Tutoral](https://riptutorial.com/ebook/cplusplus)
 - [The Joint Strike Fighter air vehicle C++ coding standards - Lockheed Martin Corporation](http://www.stroustrup.com/JSF-AV-rules.pdf)
 
 
