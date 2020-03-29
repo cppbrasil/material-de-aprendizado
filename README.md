@@ -45,6 +45,15 @@ C++
 C
 -
 
+### Vídeos
+
+#### Playlists
+
+##### Português
+
+- [Linguagem C Programação Descomplicada - André Backes](https://www.youtube.com/user/progdescomplicada/playlists)
+- [Programação Moderna em C - Fernando Mercês](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
+
 ### EBooks
 
 #### Inglês
@@ -77,7 +86,7 @@ Licença
 -------
 
 O material disponível diretamente neste repositório está sob licença
-[CC-0](LICENSE.md), a não ser que esteja explicitamente marcado de outra forma.
+[CC-0](LICENSE), a não ser que esteja explicitamente marcado de outra forma.
 
 
 Para contribuir
