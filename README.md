@@ -35,6 +35,7 @@ C++
 
 - [C++ Best Practices - Jason Turner](https://legacy.gitbook.com/download/pdf/book/lefticus/cpp-best-practices)
 - [C++ Notes for Professionals](https://books.goalkicker.com/CPlusPlusBook/)
+- [Cpp Core Guidelines - Diretrizes Principais do C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Learn C++](https://www.learncpp.com/)
 - [Learning C++ eBook - Rip Tutoral](https://riptutorial.com/ebook/cplusplus)
 - [The Joint Strike Fighter air vehicle C++ coding standards - Lockheed Martin Corporation](http://www.stroustrup.com/JSF-AV-rules.pdf)
