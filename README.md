@@ -59,6 +59,7 @@ C
 #### Inglês
 
 - [C Notes for Professionals](https://books.goalkicker.com/CBook/)
+- [Modern C](https://modernc.gforge.inria.fr/) 
 
 
 Outros materiais interessantes
