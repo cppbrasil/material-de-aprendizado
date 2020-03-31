@@ -40,6 +40,7 @@ C++
 - [Learn C++](https://www.learncpp.com/)
 - [Learning C++ eBook - Rip Tutoral](https://riptutorial.com/ebook/cplusplus)
 - [The Joint Strike Fighter air vehicle C++ coding standards - Lockheed Martin Corporation](http://www.stroustrup.com/JSF-AV-rules.pdf)
+- [The C++ Annotations [Online] - Frank B. Brokken](http://www.icce.rug.nl/documents/cplusplus/) - [[Download]](https://gitlab.com/fbb-git/cppannotations-zip)
 
 
 
@@ -70,6 +71,7 @@ Outros materiais interessantes
 #### Inglês
 
 - [Algorithms Notes for Professionals](https://books.goalkicker.com/AlgorithmsBook/)
+- [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
 
 ### Ferramentas
 
