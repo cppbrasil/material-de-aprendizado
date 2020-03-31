@@ -61,6 +61,9 @@ C
 
 - [C Notes for Professionals](https://books.goalkicker.com/CBook/)
 
+#### Para acessar outros livros:
+
+- [Livros Pagos](Books.md)
 
 Outros materiais interessantes
 ------------------------------
