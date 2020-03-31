@@ -15,7 +15,7 @@ consistente é bem vindo, mas para um guia de boas sugestões, procure material:
 - De boa didática (é melhor indicar um tutorial ou um curso do que um manual
   técnico).
 - (Para C++) que se adequa ao [C++ Teaching
-  Manifesto](https://github.com/jcelerier/cpp-teaching-manifesto) é ideal, a
+  Manifesto](manifesto-de-ensino-em-cpp.md) é ideal, a
   não ser que o assunto ou o objetivo do material o obrigue a ir contra o que
   o manifesto diz.
 - Em português, se possível. Costuma ser raro material completo sobre

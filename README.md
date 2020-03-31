@@ -61,11 +61,11 @@ C
 #### Inglês
 
 - [C Notes for Professionals](https://books.goalkicker.com/CBook/)
-- [Modern C](https://modernc.gforge.inria.fr/) 
+- [Modern C](https://modernc.gforge.inria.fr/)
 
 #### Para acessar outros livros:
 
-- [Livros Pagos](Books.md)
+- [Livros Pagos](books.md)
 
 Outros materiais interessantes
 ------------------------------
