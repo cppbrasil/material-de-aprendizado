@@ -63,6 +63,9 @@ C
 - [C Notes for Professionals](https://books.goalkicker.com/CBook/)
 - [Modern C](https://modernc.gforge.inria.fr/) 
 
+#### Para acessar outros livros:
+
+- [Livros Pagos](Books.md)
 
 Outros materiais interessantes
 ------------------------------
