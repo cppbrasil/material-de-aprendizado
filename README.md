@@ -70,6 +70,14 @@ C
 Outros materiais interessantes
 ------------------------------
 
+### Vídeos
+
+#### Playlists
+
+##### Português
+
+- [SOLID Design Principles - Carlos Reis](https://www.youtube.com/playlist?list=PLboKtxk1EpigdaiaKOv9Y4YpZdzEkNJcW)
+
 ### EBooks
 
 #### Inglês
