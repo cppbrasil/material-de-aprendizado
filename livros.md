@@ -35,3 +35,4 @@
 ### Avançado:
 
 - [Concurrency with Modern C++ - Rainer Grimm](https://leanpub.com/concurrencywithmodernc)
+- [Large-Scale C++ Process and Architecture - John Lakos](https://isocpp.org/blog/2020/02/Large-Scale-C-Volume-I-Process-and-Architecture)
