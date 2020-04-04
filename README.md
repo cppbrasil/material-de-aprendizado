@@ -105,8 +105,8 @@ Outros materiais interessantes
 ### Projetos e tutoriais
 
 - [Roguelike-tutorial](https://rtut.burkey.co/00.html)
-- [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
-- [Building a Modern Computer From First Principles](https://www.nand2tetris.org/)
+- [Challenging projects every programmer should try](https://www.nand2tetris.org/book)
+- [Building a Modern Computer From First Principles](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 
 
 Licença
