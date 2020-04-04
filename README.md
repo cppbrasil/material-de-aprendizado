@@ -79,6 +79,10 @@ Outros materiais interessantes
 
 - [SOLID Design Principles - Carlos Reis](https://www.youtube.com/playlist?list=PLboKtxk1EpigdaiaKOv9Y4YpZdzEkNJcW)
 
+##### Inglês
+
+- [Pattern-Oriented Software Architectures for Concurrent and Networked Software - Douglas C. Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6CHE-QQ040tlDILNcBqJnc)
+
 ### EBooks
 
 #### Inglês
