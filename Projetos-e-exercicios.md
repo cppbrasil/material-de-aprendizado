@@ -7,21 +7,22 @@ Projetos
 
 ## C++
 
+#### Português: 
+
+> - 
+
 #### Inglês: 
 
 > - 
 
-#### Português: 
-
-> - 
 
 ## C
 
-#### Inglês: 
+#### Português: 
 
 > - 
 
-#### Português: 
+#### Inglês: 
 
 > - 
 
@@ -31,20 +32,21 @@ Exercicios
 
 ## C++
 
+#### Português: 
+
+> - 
+
 #### Inglês: 
 
 > - 
 
-#### Português: 
-
-> - 
 
 ## C
 
-#### Inglês: 
+#### Português: 
 
 > - 
 
-#### Português: 
+#### Inglês: 
 
 > - 
