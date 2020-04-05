@@ -4,7 +4,6 @@ Projetos e Exercícios
 
 Projetos
 --------
---------
 
 ## C++
 
@@ -28,7 +27,6 @@ Projetos
 
 
 Exercicios
-----------
 ----------
 
 ## C++
