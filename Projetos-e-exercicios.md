@@ -49,4 +49,10 @@ Exercicios
 
 #### Inglês: 
 
-> - 
+> - [Roguelike-tutorial](https://rtut.burkey.co/00.html)
+
+
+## Sem categoria:
+
+> - [Challenging projects every programmer should try](https://www.nand2tetris.org/book)
+> - [Building a Modern Computer From First Principles](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
