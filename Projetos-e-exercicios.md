@@ -54,5 +54,11 @@ Exercicios
 
 ## Sem categoria:
 
+#### Português: 
+
+> - 
+
+#### Inglês: 
+
 > - [Challenging projects every programmer should try](https://www.nand2tetris.org/book)
 > - [Building a Modern Computer From First Principles](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
