@@ -92,8 +92,8 @@ Outros materiais interessantes
 #### Português
 
 - [Apostila Git - Walmes Marques Zeviani(UFPR)](https://gitlab.c3sl.ufpr.br/pet-estatistica/apostila-git/blob/devel/apostila_git.pdf)
-- [Git Magic(pt-BR) - Serafini, Leonardo Siqueira Rodrigues](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 - [Expressões Regulares - Aurélio Jargas](https://aurelio.net/regex/guia/)
+- [Git Magic(pt-BR) - Serafini, Leonardo Siqueira Rodrigues](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 
 #### Inglês
 
