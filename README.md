@@ -16,6 +16,7 @@ C++
 - [CppCon 2018: Jason Turner “Applied Best Practices”](https://www.youtube.com/watch?v=DHOlsEd0eDE)
 - [CppCon 2018: Kate Gregory “Simplicity: Not Just For Beginners”](https://www.youtube.com/watch?v=n0Ak6xtVXno)
 - [CppCon 2018: Kate Gregory “What Do We Mean When We Say Nothing At All?”](https://www.youtube.com/watch?v=kYVxGyido9g)
+- [Meeting C++ 2017: Jason Turner "Practical constexpr"](https://www.youtube.com/watch?v=xtf9qkDTrZE)
 - [CppCon 2017: Ben Deane & Jason Turner “constexpr ALL the Things!”](https://www.youtube.com/watch?v=PJwd4JLYJJY)
 - [CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?v=XkDEzfpdcSg)
 - [CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”](https://www.youtube.com/watch?v=zBkNBP00wJE)
