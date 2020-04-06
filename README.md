@@ -89,6 +89,12 @@ Outros materiais interessantes
 
 ### EBooks
 
+#### Português
+
+- [Apostila Git - Walmes Marques Zeviani(UFPR)](https://gitlab.c3sl.ufpr.br/pet-estatistica/apostila-git/blob/devel/apostila_git.pdf)
+- [Expressões Regulares - Aurélio Jargas](https://aurelio.net/regex/guia/)
+- [Git Magic(pt-BR) - Serafini, Leonardo Siqueira Rodrigues](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
+
 #### Inglês
 
 - [Algorithms Notes for Professionals](https://books.goalkicker.com/AlgorithmsBook/)
