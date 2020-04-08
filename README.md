@@ -79,6 +79,7 @@ Outros materiais interessantes
 
 ##### Português
 
+- [Arquitetura Organizacional de Computadores - Ronaldo Luiz Alonso](https://www.youtube.com/playlist?list=PLI_dauuJZJxCSXrlDtP8MVpqaajJzdsZn)
 - [SOLID Design Principles - Carlos Reis](https://www.youtube.com/playlist?list=PLboKtxk1EpigdaiaKOv9Y4YpZdzEkNJcW)
 
 ##### Inglês
@@ -94,6 +95,7 @@ Outros materiais interessantes
 - [Apostila Git - Walmes Marques Zeviani(UFPR)](https://gitlab.c3sl.ufpr.br/pet-estatistica/apostila-git/blob/devel/apostila_git.pdf)
 - [Expressões Regulares - Aurélio Jargas](https://aurelio.net/regex/guia/)
 - [Git Magic(pt-BR) - Serafini, Leonardo Siqueira Rodrigues](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
+- [Sistemas Operacionais: Conceitos e Mecanismos - Carlos Maziero(UFPR)](http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start)
 
 #### Inglês
 
