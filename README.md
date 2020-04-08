@@ -27,6 +27,7 @@ C++
 
 ##### Playlists
 
+- [Back to Basics - CppCon](https://www.youtube.com/playlist?list=PL5qoVlA-tv09ykIIPHP9N6vgJaFPnYWCa)
 - [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
 - [CppCast - Rob Irving and Jason Turner](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA/playlists)
 - [CppNuts - Rupesh Yadav](https://www.youtube.com/user/MrRupeshyadav/playlists)
@@ -111,6 +112,7 @@ Outros materiais interessantes
 - [Clang-Tidy - Analisador estático para C++](https://clang.llvm.org/extra/clang-tidy/)
 - [Clazy - Plugin de avisos para Clang com foco em Qt](https://kde.org/applications/development/org.kde.clazy)
 - [CppCheck - Analisador estático para C e C++](http://cppcheck.sourceforge.net/)
+- [DR. Memory - Analisador dinâmico para binários](https://drmemory.org)
 - [Quick C++ Benchmark - Online](http://quick-bench.com/)
 - [Valgrind - Utilitário para análise dinâmica](https://valgrind.org/)
     - [KCachegrind - Ferramenta de visualização de dados de performance (callgrind)](https://kde.org/applications/development/org.kde.kcachegrind)
