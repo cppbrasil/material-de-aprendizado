@@ -9,22 +9,14 @@ Projetos
 
 #### Português:
 
-> -
-
 #### Inglês:
-
-> -
 
 
 ## C
 
 #### Português:
 
-> -
-
 #### Inglês:
-
-> -
 
 
 Exercicios
@@ -34,29 +26,21 @@ Exercicios
 
 #### Português:
 
-> -
-
 #### Inglês:
-
-> -
 
 
 ## C
 
 #### Português:
 
-> -
-
 #### Inglês:
 
 > - [Roguelike-tutorial](https://rtut.burkey.co/00.html)
 
 
-## Sem categoria:
+## Indpendentes de linguagem:
 
 #### Português:
-
-> -
 
 #### Inglês:
 
