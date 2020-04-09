@@ -7,24 +7,24 @@ Projetos
 
 ## C++
 
-#### Português: 
+#### Português:
 
-> - 
+> -
 
-#### Inglês: 
+#### Inglês:
 
-> - 
+> -
 
 
 ## C
 
-#### Português: 
+#### Português:
 
-> - 
+> -
 
-#### Inglês: 
+#### Inglês:
 
-> - 
+> -
 
 
 Exercicios
@@ -32,33 +32,33 @@ Exercicios
 
 ## C++
 
-#### Português: 
+#### Português:
 
-> - 
+> -
 
-#### Inglês: 
+#### Inglês:
 
-> - 
+> -
 
 
 ## C
 
-#### Português: 
+#### Português:
 
-> - 
+> -
 
-#### Inglês: 
+#### Inglês:
 
 > - [Roguelike-tutorial](https://rtut.burkey.co/00.html)
 
 
 ## Sem categoria:
 
-#### Português: 
+#### Português:
 
-> - 
+> -
 
-#### Inglês: 
+#### Inglês:
 
 > - [Advent of Code - Desafios de programação anual](https://adventofcode.com/)
 > - [Challenging projects every programmer should try](https://www.nand2tetris.org/book)
