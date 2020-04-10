@@ -43,6 +43,7 @@ C++
 - [Cpp Core Guidelines - Diretrizes Principais do C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Learn C++](https://www.learncpp.com/)
 - [Learning C++ eBook - Rip Tutoral](https://riptutorial.com/ebook/cplusplus)
+- [Modern C++ 11 to 20 [en-US] - ChangKun](https://changkun.de/modern-cpp/en-us/00-preface/) - [[Download]](https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf)
 - [The Joint Strike Fighter air vehicle C++ coding standards - Lockheed Martin Corporation](http://www.stroustrup.com/JSF-AV-rules.pdf)
 - [The C++ Annotations [Online] - Frank B. Brokken](http://www.icce.rug.nl/documents/cplusplus/) - [[Download]](https://gitlab.com/fbb-git/cppannotations-zip)
 
