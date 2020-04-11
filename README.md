@@ -102,7 +102,10 @@ Outros materiais interessantes
 #### Inglês
 
 - [Algorithms Notes for Professionals](https://books.goalkicker.com/AlgorithmsBook/)
+- [API Design Principles - TQtC](https://wiki.qt.io/API_Design_Principles)
+- [Designing Qt-Style C++ APIs - Matthias Ettrich](https://doc.qt.io/archives/qq/qq13-apis.html)
 - [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
+- [The Little Manual of API Design - Jasmin Blanchette](https://people.mpi-inf.mpg.de/~jblanche/api-design.pdf)
 
 ### Ferramentas
 
