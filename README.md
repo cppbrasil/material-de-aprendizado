@@ -13,6 +13,7 @@ C++
 - [C++ Code Smells 2019 - Jason Turner](https://www.youtube.com/watch?v=nqfgOCU_Do4)
 - [C++ on Sea 2019: Kate Gregory "Oh The Humanity!"](https://www.youtube.com/watch?v=SzoquBerhUc)
 - [CppCon 2019: Kate Gregory “Naming is Hard: Let's Do Better”](https://www.youtube.com/watch?v=MBRoCdtZOYg)
+- [CppCon 2018: Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://www.youtube.com/watch?v=2olsGf6JIkU)
 - [CppCon 2018: Jason Turner “Applied Best Practices”](https://www.youtube.com/watch?v=DHOlsEd0eDE)
 - [CppCon 2018: Kate Gregory “Simplicity: Not Just For Beginners”](https://www.youtube.com/watch?v=n0Ak6xtVXno)
 - [CppCon 2018: Kate Gregory “What Do We Mean When We Say Nothing At All?”](https://www.youtube.com/watch?v=kYVxGyido9g)
