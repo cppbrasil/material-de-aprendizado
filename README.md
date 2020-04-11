@@ -120,17 +120,7 @@ Outros materiais interessantes
     - [Massif Visualizer - Ferramenta de visualização de dados de memória (massif)](https://kde.org/applications/development/org.kde.massif-visualizer)
 
 ### Compiladores Online
-
-- [C++ in Shell](https://cpp.sh)
-- [Codiva](https://www.codiva.io/)
-- [Coliru](http://coliru.stacked-crooked.com/)
-- [C Compiler Explorer](https://c.godbolt.org/)
-- [C++ Compiler Explorer](https://godbolt.org/)
-- [C++ Insights - Expansor de código para visualizar transformações pelo compilador](https://cppinsights.io/)
-- [IDEOne](https://ideone.com)
-- [Paiza](https://paiza.io/)
-- [Quick C++ Benchmark](http://quick-bench.com/)
-- [Wandbox](https://wandbox.org)
+ - [List of Online C++ Compilers](https://arnemertz.github.io/online-compilers/)
 
 Licença
 -------
