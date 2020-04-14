@@ -120,8 +120,10 @@ Outros materiais interessantes
     - [Massif Visualizer - Ferramenta de visualização de dados de memória (massif)](https://kde.org/applications/development/org.kde.massif-visualizer)
 
 ### Compiladores Online
+ - [C++ Insights - Expansor de código para visualizar transformações pelo compilador](https://cppinsights.io/)
  - [Compiler Explorer - Teste vários compiladores](https://godbolt.org/)
  - [Lista de Compiladores Online C & C++](https://arnemertz.github.io/online-compilers/)
+ - [Quick C++ Benchmark - Online](http://quick-bench.com/)
 
 Licença
 -------
