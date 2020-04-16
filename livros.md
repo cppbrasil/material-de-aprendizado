@@ -29,6 +29,7 @@
 - [C++17 The Complete Guide - Nicolai M. Josuttis](https://leanpub.com/cpp17)
 - [The C++ Standard Library - Rainer Grimm](https://leanpub.com/cpplibrary)
 - [C++ Concurrency in Action: Practical Multithreading - Anthony Williams](https://www.cplusplusconcurrencyinaction.com/)
+- [C++ Crash Course - Joshua Lospinoso](https://nostarch.com/cppcrashcourse)
 - [Elements of Programming Interviews The Insiders Guide - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://books.google.de/books/about/Elements_of_Programming_Interviews.html?id=y6FLBQAAQBAJ&redir_esc=y)
 - [Modern Operating Systems - Andrew S Tanenbaum](https://www.pearson.com/us/higher-education/program/Tanenbaum-Modern-Operating-Systems-4th-Edition/PGM80736.html)
 - [Operating Systems: Three Easy Pieces - Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/OSTEP/)
