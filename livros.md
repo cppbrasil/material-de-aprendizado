@@ -25,7 +25,7 @@
 
 - [Começando a programar em C++ para Leigos - Stephen R. Davis](http://www.altabooks.com.br/produto/comecando-a-programar-em-c-para-leigos/) [**Traduzido**]
 - [C++ para Leigos - Stephen R. Davis](http://www.altabooks.com.br/produto/c-para-leigos-traducao-da-7a-edicao/) [**Traduzido**]
-- [Pro Git](https://git-scm.com/book/pt-br) [**Traduzido**]
+
 
 #### Intermediário:
 
