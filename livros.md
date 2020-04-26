@@ -59,7 +59,7 @@
 ##### C++20
 
 - [Exploring C++20 The Programmer's Introduction to C++ - Lischner, Ray](https://www.apress.com/gp/book/9781484259603)
-- [Mastering C++ Programming - Vardan Grigoryan, Shunguang Wu](https://www.packtpub.com/programming/mastering-c-programming)
+- [Expert C++ - Vardan Grigoryan, Shunguang Wu](https://www.packtpub.com/programming/mastering-c-programming)
 
 #### Avançado:
 
