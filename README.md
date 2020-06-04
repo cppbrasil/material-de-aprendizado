@@ -64,6 +64,10 @@ C
 
 ### EBooks
 
+#### Português
+
+- [C Para Seres Humanos - Yaks Vinicios S. Souza](https://github.com/RoboCopGay/CParaSeresHumanos/releases)
+
 #### Inglês
 
 - [C Notes for Professionals](https://books.goalkicker.com/CBook/)
