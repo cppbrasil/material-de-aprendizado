@@ -24,7 +24,7 @@
 
 #### Avançado:
 
-- [Expert C Programming: Deep C Secrets](https://www.amazon.com.br/Expert-Programming-Peter-Van-Linden/dp/0131774298)
+- [Expert C Programming: Deep C Secrets](https://www.pearson.com/us/higher-education/product/van-der-Linden-Expert-C-Programming-Deep-Secrets/9780133522235.html)
 
 ---
 
@@ -96,4 +96,3 @@
 - [Computer Networks, 5th edition - Andrew S. Tanenbaum & David J. Wetherall](https://www.pearson.com/store/p/computer-networks/P100001359716/9780132126953)
 - [Data and Computer Communications, 10th edition - William Stallings](https://www.pearson.com/store/p/data-and-computer-communications/P100002511962)
 - [TCP/IP Guide - Charles M. Kozierok](https://nostarch.com/tcpip.htm)
-
