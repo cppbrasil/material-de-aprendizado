@@ -12,8 +12,19 @@
 - [Linguagem C - Completa e Descomplicada (2ª Edição) - André Backes](https://www.grupogen.com.br/linguagem-c-440057) [**Nacional**]
 
 #### Intermediário:
+
 - [Estrutura de Dados Descomplicada em Linguagem C - André Backes](https://www.grupogen.com.br/estrutura-de-dados-descomplicada-em-linguagem-c) [**Nacional**]
 - [Programação em Baixo Nível - Igor Zhirkov](https://novatec.com.br/livros/programacao-em-baixo-nivel/) [**Traduzido**]
+
+### Inglês
+
+#### Intermediário:
+
+- [Hands-On Network Programming with C - Lewis Van Winkle](https://www.packtpub.com/networking-and-servers/hands-network-programming-c)
+
+#### Avançado:
+
+- [Expert C Programming: Deep C Secrets](https://www.amazon.com.br/Expert-Programming-Peter-Van-Linden/dp/0131774298)
 
 ---
 
@@ -31,12 +42,6 @@
 
 - [C++ Explicado e Aplicado - Vilmar P. Votre](http://www.altabooks.com.br/produto/c-explicado-e-aplicado/) (*C++11 & 14*) [**Nacional**]
 - [C++ Moderno e Eficaz - Scott Meyers](http://www.altabooks.com.br/produto/c-moderno-e-eficaz-42-formas-especificas-de-aprimorar-seu-uso-de-c11-e-c14/) (*C++11 & 14*) [**Traduzido**]
-
-### Inglês
-
-#### Intermediário:
-
-- [Hands-On Network Programming with C - Lewis Van Winkle](https://www.packtpub.com/networking-and-servers/hands-network-programming-c)
 
 ---
 
@@ -76,6 +81,10 @@
 #### Intermediário:
 
 - [Elements of Programming Interviews The Insiders Guide - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://books.google.de/books/about/Elements_of_Programming_Interviews.html?id=y6FLBQAAQBAJ&redir_esc=y)
+
+##### Programação Linux:
+
+- [The Linux Programming Interface](https://man7.org/tlpi/)
 
 ##### Sistemas Operacionais:
 
