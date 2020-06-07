@@ -1,7 +1,7 @@
 Material para aprendizado de C e de C++
 =======================================
 
-Coleção de materiais e links para aprendizado de C++, em português ou inglês.
+Coleção de materiais e links para aprendizado de C e de C++, em português ou inglês.
 
 C++
 ---
