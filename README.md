@@ -62,6 +62,10 @@ C
 - [Linguagem C Programação Descomplicada - André Backes](https://www.youtube.com/user/progdescomplicada/playlists)
 - [Programação Moderna em C - Fernando Mercês](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
 
+##### Inglês
+
+- [Beginner C Videos - Jacob Sorber](https://www.youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)
+
 ### EBooks
 
 #### Português
@@ -74,6 +78,7 @@ C
 - [C Notes for Professionals](https://books.goalkicker.com/CBook/)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 - [Modern C](https://modernc.gforge.inria.fr/)
+- [SEI CERT C Coding Standard - Rules for Developing Safe, Reliable, and Secure Systems](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
 
 ### [Livros Físicos (pagos)](livros.md)
 

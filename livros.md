@@ -24,7 +24,8 @@
 
 #### Avançado:
 
-- [Expert C Programming: Deep C Secrets](https://www.pearson.com/us/higher-education/product/van-der-Linden-Expert-C-Programming-Deep-Secrets/9780133522235.html)
+- [Expert C Programming: Deep C Secrets - Peter van der Linden](https://www.pearson.com/us/higher-education/product/van-der-Linden-Expert-C-Programming-Deep-Secrets/9780133522235.html)
+- [C Traps and Pitfalls - Andrew Koenig](https://www.pearson.com/us/higher-education/program/Koenig-C-Traps-and-Pitfalls/PGM225668.html)
 
 ---
 
