@@ -94,6 +94,7 @@ Outros materiais interessantes
 ##### Português
 
 - [Arquitetura Organizacional de Computadores - Ronaldo Luiz Alonso](https://www.youtube.com/playlist?list=PLI_dauuJZJxCSXrlDtP8MVpqaajJzdsZn)
+- [Programação e Desenvolvimento de Software - Fernando Magno Quintão(DCC - UFMG)](https://www.youtube.com/playlist?list=PLC-dUCVQghfd-2RHqSxKjBSTBc9FrT0GQ)
 - [SOLID Design Principles - Carlos Reis](https://www.youtube.com/playlist?list=PLboKtxk1EpigdaiaKOv9Y4YpZdzEkNJcW)
 
 ##### Inglês
