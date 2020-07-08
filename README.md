@@ -70,7 +70,7 @@ C
 
 #### Português
 
-- [C Para Seres Humanos - Yaks Vinicios S. Souza](https://github.com/RoboCopGay/CParaSeresHumanos/releases)
+- [C Para Seres Humanos - Yaks Vinicios S. Souza](https://github.com/Plankiton/CParaSeresHumanos/releases)
 - [Guia sobre programação de redes em C - Beej | ](https://beej.us/guide/bgnet/translations/bgnet_ptbr.html)[[Projeto de tradução - cv8minix3](https://github.com/cv8minix3/Traducao_Guia_Beejs_Sockets_em_C_PTBR)]
 
 #### Inglês
