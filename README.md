@@ -46,6 +46,7 @@ C++
 - [Learn C++](https://www.learncpp.com/)
 - [Learning C++ eBook - Rip Tutoral](https://riptutorial.com/ebook/cplusplus)
 - [Modern C++ 11 to 20 [en-US] - ChangKun](https://changkun.de/modern-cpp/en-us/00-preface/) - [[Download]](https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf)
+- [SEI CERT C++ Coding Standard (2016) - Aaron Ballman](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682) - [[Download]](https://resources.sei.cmu.edu/downloads/secure-coding/assets/sei-cert-cpp-coding-standard-2016-v01.pdf)
 - [The Joint Strike Fighter air vehicle C++ coding standards - Lockheed Martin Corporation](http://www.stroustrup.com/JSF-AV-rules.pdf)
 - [The C++ Annotations [Online] - Frank B. Brokken](http://www.icce.rug.nl/documents/cplusplus/) - [[Download]](https://gitlab.com/fbb-git/cppannotations-zip)
 
@@ -66,6 +67,7 @@ C
 ##### Inglês
 
 - [Beginner C Videos - Jacob Sorber](https://www.youtube.com/playlist?list=PL9IEJIKnBJjG5H0ylFAzpzs9gSmW_eICB)
+- [SEI CERT C Coding Standard (2016) - Aaron Ballman](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - [[Download]](https://resources.sei.cmu.edu/downloads/secure-coding/assets/sei-cert-c-coding-standard-2016-v01.pdf)
 
 ### EBooks
 
