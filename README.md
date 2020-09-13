@@ -63,6 +63,7 @@ C
 
 - [Linguagem C Programação Descomplicada - André Backes](https://www.youtube.com/user/progdescomplicada/playlists)
 - [Programação Moderna em C - Fernando Mercês](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
+- [Introdução à Programação de Redes em C - Ítalo Cunha](https://www.youtube.com/playlist?list=PLyrH0CFXIM5Wzmbv-lC-qvoBejsa803Qk)
 
 ##### Inglês
 
@@ -74,7 +75,7 @@ C
 #### Português
 
 - [C Para Seres Humanos - Yaks Vinicios S. Souza](https://github.com/Plankiton/CParaSeresHumanos/releases)
-- [Guia sobre programação de redes em C - Beej | ](https://beej.us/guide/bgnet/translations/bgnet_ptbr.html)[[Projeto de tradução - cv8minix3](https://github.com/cv8minix3/Traducao_Guia_Beejs_Sockets_em_C_PTBR)]
+- [Guia sobre programação de redes em C - Beej | ](https://beej.us/guide/bgnet/translations/bgnet_ptbr.html)
 
 #### Inglês
 
