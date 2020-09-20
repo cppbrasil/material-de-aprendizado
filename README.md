@@ -17,14 +17,14 @@ C++
 - [CppCon 2018: Jason Turner “Applied Best Practices”](https://www.youtube.com/watch?v=DHOlsEd0eDE)
 - [CppCon 2018: Kate Gregory “Simplicity: Not Just For Beginners”](https://www.youtube.com/watch?v=n0Ak6xtVXno)
 - [CppCon 2018: Kate Gregory “What Do We Mean When We Say Nothing At All?”](https://www.youtube.com/watch?v=kYVxGyido9g)
-- [Meeting C++ 2017: Jason Turner "Practical constexpr"](https://www.youtube.com/watch?v=xtf9qkDTrZE)
+- [CppCon 2018: Walter E. Brown “C++ Function Templates: How Do They Really Work?”](https://www.youtube.com/watch?v=NIDEjY5ywqU)
 - [CppCon 2017: Ben Deane & Jason Turner “constexpr ALL the Things!”](https://www.youtube.com/watch?v=PJwd4JLYJJY)
 - [CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?v=XkDEzfpdcSg)
 - [CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”](https://www.youtube.com/watch?v=zBkNBP00wJE)
-- [code::dive 2016: Bartosz Szurgot "The taming of the Software: C++, embedded... and more"](https://www.youtube.com/watch?v=NGLid96ceEo)
 - [CppCon 2015: Kate Gregory “Stop Teaching C"](https://www.youtube.com/watch?v=YnWhqhNdYyk)
-- [code::dive conference 2015: Bartosz Szurgot "C++ vs C the embedded perspective"](https://www.youtube.com/watch?v=PDSvjwJ2M80&feature=youtu.be)
-- [CppCon 2018: Walter E. Brown “C++ Function Templates: How Do They Really Work?”](https://www.youtube.com/watch?v=NIDEjY5ywqU)
+- [Meeting C++ 2017: Jason Turner "Practical constexpr"](https://www.youtube.com/watch?v=xtf9qkDTrZE)
+- [code::dive 2016: Bartosz Szurgot "The taming of the Software: C++, embedded... and more"](https://www.youtube.com/watch?v=NGLid96ceEo)
+- [code::dive 2015: Bartosz Szurgot "C++ vs C the embedded perspective"](https://www.youtube.com/watch?v=PDSvjwJ2M80&feature=youtu.be)
 
 ##### Playlists
 
