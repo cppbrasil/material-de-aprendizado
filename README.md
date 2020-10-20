@@ -34,6 +34,7 @@ C++
 - [CppNuts - Rupesh Yadav](https://www.youtube.com/user/MrRupeshyadav/playlists)
 - [C++ - Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [NES Emulator From Scratch - javidx9](https://www.youtube.com/watch?v=nViZg02IMQo&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
+- [C++ Machine Learning](https://www.youtube.com/watch?v=jKtbNvCT8Dc&feature=youtu.be)
 
 ### EBooks
 
