@@ -105,6 +105,7 @@ Outros materiais interessantes
 ##### Inglês
 
 - [C++ Weekly - Ep 78 - Intro to CMake](https://www.youtube.com/watch?v=HPMvU64RUTY)
+- [How to CMake Good - vector-of-bool](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s)
 - [CppCon 2017: Mathieu Ropert “Using Modern CMake Patterns to Enforce a Good Modular Design”](https://www.youtube.com/watch?v=eC9-iRN2b04)
 - [Pattern-Oriented Software Architectures for Concurrent and Networked Software - Douglas C. Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6CHE-QQ040tlDILNcBqJnc)
 
