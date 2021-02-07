@@ -8,6 +8,15 @@ C++
 
 ### Vídeos
 
+#### Português:
+
+##### Playlists
+
+- [Curso C++ - Professor Bruno](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40)
+- [Curso Qt5 - Professor Bruno](https://www.youtube.com/playlist?list=PLx4x_zx8csUhzAyii9-cY-IJwo00p_5AC)
+- [C++ para iniciantes - Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV)
+- [Programação em C++ - Alan Freitas](https://youtube.com/playlist?list=PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck)
+
 #### Inglês:
 
 ##### CppCon:
