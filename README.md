@@ -152,6 +152,7 @@ Outros materiais interessantes
 - [Clazy - Plugin de avisos para Clang com foco em Qt](https://kde.org/applications/development/org.kde.clazy)
 - [CppCheck - Analisador estático para C e C++](http://cppcheck.sourceforge.net/)
 - [DR. Memory - Analisador dinâmico para binários](https://drmemory.org)
+- [Simian - Analisador de similaridade](https://www.harukizaemon.com/simian/)
 - [Valgrind - Utilitário para análise dinâmica](https://valgrind.org/)
     - [KCachegrind - Ferramenta de visualização de dados de performance (callgrind)](https://kde.org/applications/development/org.kde.kcachegrind)
     - [Massif Visualizer - Ferramenta de visualização de dados de memória (massif)](https://kde.org/applications/development/org.kde.massif-visualizer)
