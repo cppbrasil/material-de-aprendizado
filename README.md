@@ -156,6 +156,11 @@ Outros materiais interessantes
     - [KCachegrind - Ferramenta de visualização de dados de performance (callgrind)](https://kde.org/applications/development/org.kde.kcachegrind)
     - [Massif Visualizer - Ferramenta de visualização de dados de memória (massif)](https://kde.org/applications/development/org.kde.massif-visualizer)
 
+- Otimizadores de tempo de compilação
+    - [Ccache - Sistema de cache para compiladires](https://ccache.dev/)
+    - [Gold Linker - GNU ELF linker mais rápido que ld](https://sourceware.org/binutils/)
+    - [Sccache - Sistema de cache distribuida para compiladores](https://github.com/mozilla/sccache)
+
 ### Compiladores Online
  - [C++ Insights - Expansor de código para visualizar transformações pelo compilador](https://cppinsights.io/)
  - [C++ Build Benchmark - Compare C++ Builds](https://build-bench.com)
