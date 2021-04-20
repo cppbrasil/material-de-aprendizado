@@ -139,6 +139,7 @@ Outros materiais interessantes
 
 - [Algorithms Notes for Professionals](https://books.goalkicker.com/AlgorithmsBook/)
 - [API Design Principles - TQtC](https://wiki.qt.io/API_Design_Principles)
+- [C++ Draft - Rascunho do padrão do C++ (C++next e versões anteriores do standard)](https://eel.is/c++draft)
 - [Designing Qt-Style C++ APIs - Matthias Ettrich](https://doc.qt.io/archives/qq/qq13-apis.html)
 - [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
 - [Posix Standard](https://pubs.opengroup.org/onlinepubs/9699919799/)
