@@ -155,6 +155,7 @@ Outros materiais interessantes
 - [Valgrind - Utilitário para análise dinâmica](https://valgrind.org/)
     - [KCachegrind - Ferramenta de visualização de dados de performance (callgrind)](https://kde.org/applications/development/org.kde.kcachegrind)
     - [Massif Visualizer - Ferramenta de visualização de dados de memória (massif)](https://kde.org/applications/development/org.kde.massif-visualizer)
+- [wg21.link - Redirecionador de links para issues, drafts e propostas para o C++](https://wg21.link)
 
 ### Compiladores Online
  - [C++ Insights - Expansor de código para visualizar transformações pelo compilador](https://cppinsights.io/)
