@@ -21,29 +21,29 @@ C++
 
 ##### CppCon:
 
-- [CppCon 2014: Herb Sutter "Back to the Basics! Essentials of Modern C++ Style"](https://www.youtube.com/watch?v=xnqTKD8uD64)
-- [CppCon 2015: Kate Gregory “Stop Teaching C"](https://www.youtube.com/watch?v=YnWhqhNdYyk)
-- [CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”](https://www.youtube.com/watch?v=zBkNBP00wJE)
-- [CppCon 2017: Ben Deane & Jason Turner “constexpr ALL the Things!”](https://www.youtube.com/watch?v=PJwd4JLYJJY)
-- [CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?v=XkDEzfpdcSg)
-- [CppCon 2018: Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://www.youtube.com/watch?v=2olsGf6JIkU)
-- [CppCon 2018: Jason Turner “Applied Best Practices”](https://www.youtube.com/watch?v=DHOlsEd0eDE)
-- [CppCon 2018: Kate Gregory “Simplicity: Not Just For Beginners”](https://www.youtube.com/watch?v=n0Ak6xtVXno)
-- [CppCon 2018: Kate Gregory “What Do We Mean When We Say Nothing At All?”](https://www.youtube.com/watch?v=kYVxGyido9g)
-- [CppCon 2018: Walter E. Brown “C++ Function Templates: How Do They Really Work?”](https://www.youtube.com/watch?v=NIDEjY5ywqU)
-- [CppCon 2019: Kate Gregory “Naming is Hard: Let's Do Better”](https://www.youtube.com/watch?v=MBRoCdtZOYg)
+- [CppCon 2014 - Herb Sutter "Back to the Basics! Essentials of Modern C++ Style"](https://www.youtube.com/watch?v=xnqTKD8uD64)
+- [CppCon 2015 - Kate Gregory “Stop Teaching C"](https://www.youtube.com/watch?v=YnWhqhNdYyk)
+- [CppCon 2016 - Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”](https://www.youtube.com/watch?v=zBkNBP00wJE)
+- [CppCon 2017 - Ben Deane & Jason Turner “constexpr ALL the Things!”](https://www.youtube.com/watch?v=PJwd4JLYJJY)
+- [CppCon 2017 - Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?v=XkDEzfpdcSg)
+- [CppCon 2018 - Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://www.youtube.com/watch?v=2olsGf6JIkU)
+- [CppCon 2018 - Jason Turner “Applied Best Practices”](https://www.youtube.com/watch?v=DHOlsEd0eDE)
+- [CppCon 2018 - Kate Gregory “Simplicity: Not Just For Beginners”](https://www.youtube.com/watch?v=n0Ak6xtVXno)
+- [CppCon 2018-  Kate Gregory “What Do We Mean When We Say Nothing At All?”](https://www.youtube.com/watch?v=kYVxGyido9g)
+- [CppCon 2018 - Walter E. Brown “C++ Function Templates: How Do They Really Work?”](https://www.youtube.com/watch?v=NIDEjY5ywqU)
+- [CppCon 2019 - Kate Gregory “Naming is Hard: Let's Do Better”](https://www.youtube.com/watch?v=MBRoCdtZOYg)
 
 ##### Other Events:
 
-- [code::dive 2015: Bartosz Szurgot "C++ vs C the embedded perspective"](https://www.youtube.com/watch?v=PDSvjwJ2M80&feature=youtu.be)
-- [code::dive 2016: Bartosz Szurgot "The taming of the Software: C++, embedded... and more"](https://www.youtube.com/watch?v=NGLid96ceEo)
-- [Meeting C++ 2017: Jason Turner "Practical constexpr"](https://www.youtube.com/watch?v=xtf9qkDTrZE)
+- [code::dive 2015 - Bartosz Szurgot "C++ vs C the embedded perspective"](https://www.youtube.com/watch?v=PDSvjwJ2M80&feature=youtu.be)
+- [code::dive 2016 - Bartosz Szurgot "The taming of the Software: C++, embedded... and more"](https://www.youtube.com/watch?v=NGLid96ceEo)
+- [Meeting C++ 2017 - Jason Turner "Practical constexpr"](https://www.youtube.com/watch?v=xtf9qkDTrZE)
 - [C++ Code Smells 2019 - Jason Turner](https://www.youtube.com/watch?v=nqfgOCU_Do4)
-- [C++ on Sea 2019: Kate Gregory "Oh The Humanity!"](https://www.youtube.com/watch?v=SzoquBerhUc)
+- [C++ on Sea 2019 - Kate Gregory "Oh The Humanity!"](https://www.youtube.com/watch?v=SzoquBerhUc)
 
 ##### Playlists
 
-- [Back to Basics - CppCon](https://www.youtube.com/playlist?list=PL5qoVlA-tv09ykIIPHP9N6vgJaFPnYWCa)
+- [CppCon 2019 - Back to Basics](https://www.youtube.com/playlist?list=PL5qoVlA-tv09ykIIPHP9N6vgJaFPnYWCa)
 - [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
 - [CppCast - Rob Irving and Jason Turner](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA/playlists)
 - [CppNuts - Rupesh Yadav](https://www.youtube.com/user/MrRupeshyadav/playlists)
