@@ -28,6 +28,7 @@ C++
 - [CppCon 2017 - Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?v=XkDEzfpdcSg)
 - [CppCon 2018 - Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://www.youtube.com/watch?v=2olsGf6JIkU)
 - [CppCon 2018 - Jason Turner “Applied Best Practices”](https://www.youtube.com/watch?v=DHOlsEd0eDE)
+- [CppCon 2018 - Jon Kalb “This is Why We Can’t Have Nice Things”](https://www.youtube.com/watch?v=fv--IKZFVO8)
 - [CppCon 2018 - Kate Gregory “Simplicity: Not Just For Beginners”](https://www.youtube.com/watch?v=n0Ak6xtVXno)
 - [CppCon 2018-  Kate Gregory “What Do We Mean When We Say Nothing At All?”](https://www.youtube.com/watch?v=kYVxGyido9g)
 - [CppCon 2018 - Walter E. Brown “C++ Function Templates: How Do They Really Work?”](https://www.youtube.com/watch?v=NIDEjY5ywqU)
