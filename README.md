@@ -40,6 +40,7 @@ C++
 - [Meeting C++ 2017 - Jason Turner "Practical constexpr"](https://www.youtube.com/watch?v=xtf9qkDTrZE)
 - [C++ Code Smells 2019 - Jason Turner](https://www.youtube.com/watch?v=nqfgOCU_Do4)
 - [C++ on Sea 2019 - Kate Gregory "Oh The Humanity!"](https://www.youtube.com/watch?v=SzoquBerhUc)
+- [Meeting Cpp 2021 - Klaus Iglberger "Design Patterns - Facts and Misconceptions"](https://youtu.be/u5EAJTHPJN8)
 
 ##### Playlists
 
