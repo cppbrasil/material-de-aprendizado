@@ -175,6 +175,10 @@ Outros materiais interessantes
  - [Quick C++ Benchmark - Online](http://quick-bench.com/)
  - [Wasm Explorer - Teste códigos C++ para WebAssembly](https://mbebenita.github.io/WasmExplorer/)
 
+### Conformidade com o padrão C++
+ - [GCC](https://gcc.gnu.org/projects/cxx-status.html)
+ - [Clang](https://clang.llvm.org/cxx_status.html)
+
 Licença
 -------
 
