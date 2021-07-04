@@ -14,6 +14,7 @@ C++
 
 - [Curso C++ - Professor Bruno](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40)
 - [Curso Qt5 - Professor Bruno](https://www.youtube.com/playlist?list=PLx4x_zx8csUhzAyii9-cY-IJwo00p_5AC)
+- [Curso de C++ 2021.1 - CALICO UFSC - Tarcísio Eduardo Moreira Crocomo](https://www.youtube.com/playlist?list=PLd_tyl_0h07Pp9QIfbqHx5TIvCnnZuwCi)
 - [C++ para iniciantes - Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV)
 - [Programação em C++ - Alan de Freitas](https://youtube.com/playlist?list=PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck)
 
