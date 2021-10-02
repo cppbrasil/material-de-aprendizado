@@ -146,6 +146,7 @@ Outros materiais interessantes
 - [API Design Principles - TQtC](https://wiki.qt.io/API_Design_Principles)
 - [C++ Draft - Rascunho do padrão do C++ (C++next e versões anteriores do standard)](https://eel.is/c++draft)
 - [Designing Qt-Style C++ APIs - Matthias Ettrich](https://doc.qt.io/archives/qq/qq13-apis.html)
+- [Efficient Programming with Components - Justin Meneirs](https://justinmeiners.github.io/efficient-programming-with-components/)
 - [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
 - [Posix Standard](https://pubs.opengroup.org/onlinepubs/9699919799/)
 - [Pro Git](https://git-scm.com/book)
