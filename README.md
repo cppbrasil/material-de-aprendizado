@@ -85,6 +85,7 @@ C
 - [Programação Moderna em C - Fernando Mercês](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
 - [Introdução à Programação de Redes em C - Ítalo Cunha](https://www.youtube.com/playlist?list=PLyrH0CFXIM5Wzmbv-lC-qvoBejsa803Qk)
 - [Ponteiros em C - Agostinho Brito](https://www.youtube.com/playlist?list=PLWWAoQUirHNoKlnNdSnDRw8NQEe9wcYiD)
+- [Linguagem C Programe seu futuro - Wagner Gaspar](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA)
 
 ##### Inglês
 
