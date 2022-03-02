@@ -58,19 +58,18 @@ C++
 ### EBooks
 
 #### Inglês
-
+- [Algorithms for Modern Hardware - w/ C++ examples](https://en.algorithmica.org/hpc/)
 - [C++ Best Practices - Jason Turner](https://legacy.gitbook.com/download/pdf/book/lefticus/cpp-best-practices)
 - [C++ Notes for Professionals](https://books.goalkicker.com/CPlusPlusBook/)
 - [C++ Standard ISO (Working Draft)](https://eel.is/c++draft/)
 - [Cpp Core Guidelines - Diretrizes Principais do C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [Hacking C++ - Infographics & Cheat Sheets](https://hackingcpp.com/cpp/cheat_sheets.html)
 - [Learn C++](https://www.learncpp.com/)
 - [Learning C++ eBook - Rip Tutoral](https://riptutorial.com/ebook/cplusplus)
 - [Modern C++ 11 to 20 [en-US] - ChangKun](https://changkun.de/modern-cpp/en-us/00-preface/) - [[Download]](https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf)
 - [SEI CERT C++ Coding Standard (2016) - Aaron Ballman](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682) - [[Download]](https://resources.sei.cmu.edu/downloads/secure-coding/assets/sei-cert-cpp-coding-standard-2016-v01.pdf)
 - [The Joint Strike Fighter air vehicle C++ coding standards - Lockheed Martin Corporation](http://www.stroustrup.com/JSF-AV-rules.pdf)
 - [The C++ Annotations [Online] - Frank B. Brokken](http://www.icce.rug.nl/documents/cplusplus/) - [[Download]](https://gitlab.com/fbb-git/cppannotations-zip)
-- [Hacking C++ - Infographics & Cheat Sheets](https://hackingcpp.com/cpp/cheat_sheets.html)
-
 
 
 C
@@ -102,6 +101,7 @@ C
 
 - [C Notes for Professionals](https://books.goalkicker.com/CBook/)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+- [The Lost Art of Structure Packing - Eric S. Raymond](http://www.catb.org/esr/structure-packing/)
 - [Modern C](https://modernc.gforge.inria.fr/)
 - [SEI CERT C Coding Standard - Rules for Developing Safe, Reliable, and Secure Systems](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - [[Download]](https://resources.sei.cmu.edu/downloads/secure-coding/assets/sei-cert-c-coding-standard-2016-v01.pdf)
 
@@ -147,6 +147,7 @@ Outros materiais interessantes
 - [C++ Draft - Rascunho do padrão do C++ (C++next e versões anteriores do standard)](https://eel.is/c++draft)
 - [Designing Qt-Style C++ APIs - Matthias Ettrich](https://doc.qt.io/archives/qq/qq13-apis.html)
 - [Efficient Programming with Components - Justin Meneirs](https://justinmeiners.github.io/efficient-programming-with-components/)
+- [Intel® 64 and IA-32 Instruction Set Reference - online](https://namazso.github.io/x86/)
 - [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
 - [Posix Standard](https://pubs.opengroup.org/onlinepubs/9699919799/)
 - [Pro Git](https://git-scm.com/book)
