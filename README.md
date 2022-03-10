@@ -43,6 +43,7 @@ C++
 - [C++ Code Smells 2019 - Jason Turner](https://www.youtube.com/watch?v=nqfgOCU_Do4)
 - [C++ on Sea 2019 - Kate Gregory "Oh The Humanity!"](https://www.youtube.com/watch?v=SzoquBerhUc)
 - [Meeting Cpp 2021 - Klaus Iglberger "Design Patterns - Facts and Misconceptions"](https://youtu.be/u5EAJTHPJN8)
+- [Linux Foundation - C++ for Embedded Development - Thiago Macieira](https://www.youtube.com/watch?v=wLq-5lBc7x4)
 - [Barr Group - Getting Started with C++ in Embedded Systems - Michael Wilk](https://www.youtube.com/watch?v=V0iUF22-m5I)
 
 ##### Playlists
@@ -152,6 +153,7 @@ Outros materiais interessantes
 - [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
 - [Posix Standard](https://pubs.opengroup.org/onlinepubs/9699919799/)
 - [Pro Git](https://git-scm.com/book)
+- [Beginner's Guide to Linkers](https://lurklurk.org/linkers/linkers.html)
 - [The Little Manual of API Design - Jasmin Blanchette](https://people.mpi-inf.mpg.de/~jblanche/api-design.pdf)
 
 ### Ferramentas
