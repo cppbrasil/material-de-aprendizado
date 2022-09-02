@@ -58,7 +58,7 @@ C++
 - [NES Emulator From Scratch - javidx9](https://www.youtube.com/watch?v=nViZg02IMQo&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
 - [C++ Machine Learning](https://www.youtube.com/watch?v=jKtbNvCT8Dc&feature=youtu.be)
 - [C++ Geral e DirectX11 - ChiliTomatoNoodle](https://www.youtube.com/user/chilitomatonoodle)
-- 
+
 ### EBooks
 
 #### Inglês
