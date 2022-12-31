@@ -158,6 +158,7 @@ Outros materiais interessantes
 
 - [Algorithms Notes for Professionals](https://books.goalkicker.com/AlgorithmsBook/)
 - [API Design Principles - TQtC](https://wiki.qt.io/API_Design_Principles)
+- [CPP C++ Papyrus - Caio Rodrigues](https://caiorss.github.io/C-Cpp-Notes/)
 - [C++ Draft - Rascunho do padrão do C++ (C++next e versões anteriores do standard)](https://eel.is/c++draft)
 - [Designing Qt-Style C++ APIs - Matthias Ettrich](https://doc.qt.io/archives/qq/qq13-apis.html)
 - [Efficient Programming with Components - Justin Meneirs](https://justinmeiners.github.io/efficient-programming-with-components/)
