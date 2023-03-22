@@ -132,6 +132,7 @@ Outros materiais interessantes
 - [C++ Links (Resources list) - C++ Communities](https://github.com/MattPD/cpplinks)
 - [CppCon 2017: Mathieu Ropert “Using Modern CMake Patterns to Enforce a Good Modular Design”](https://www.youtube.com/watch?v=eC9-iRN2b04)
 - [How to CMake Good - vector-of-bool](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s)
+- [Molly Rocket - Lectures](https://www.youtube.com/watch?v=8VakkEFOiJc&list=PLEMXAbCVnmY7uLZI18_vIO11HkzB2EgEH)
 - [Pattern-Oriented Software Architectures for Concurrent and Networked Software - Douglas C. Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6CHE-QQ040tlDILNcBqJnc)
 
 ### EBooks
