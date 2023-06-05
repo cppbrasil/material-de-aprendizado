@@ -20,6 +20,13 @@ C++
 
 #### Inglês:
 
+##### Videos selecionados, Bjarne Stroustrup
+
+- [The essence of C++](https://www.youtube.com/watch?v=86xWVb4XIyE)
+- [CppCon 2017 - Learning and Teaching Modern C++](https://www.youtube.com/watch?v=fX2W3nNjJIo)
+- [The aims and status of modern C++](https://www.youtube.com/watch?v=SwJUPeWKRHo)
+- [C++20: Reaching for the Aims of C++](https://www.youtube.com/watch?v=wADLYEjP4ag)
+
 ##### CppCon:
 
 - [CppCon 2014 - Herb Sutter "Back to the Basics! Essentials of Modern C++ Style"](https://www.youtube.com/watch?v=xnqTKD8uD64)
