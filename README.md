@@ -69,6 +69,10 @@ C++
 
 ### EBooks
 
+#### Português
+- [Livro C++ - Desenvolvido pela comunidade de discussão de C++ no Telegram](https://tarcisiofischer.github.io/livrocpp/)
+- [Livro C++ asio - Nan Xiao & Matheus C. França](https://kassane.github.io/ebook-net-prog)
+
 #### Inglês
 - [Algorithms for Modern Hardware - w/ C++ examples](https://en.algorithmica.org/hpc/)
 - [C++ Best Practices - Jason Turner](https://legacy.gitbook.com/download/pdf/book/lefticus/cpp-best-practices)
