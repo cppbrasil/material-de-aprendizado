@@ -5,7 +5,7 @@ Este manifesto pretende garantir que esta tarefa não seja involuntariamente tã
 fornecendo as melhores práticas atualizadas para o ensino.
 
 
-#### 1. Ensinarei C++ como uma linguagem de alto nível.
+#### 1. Ensinarei C++ como uma linguagem de alto nível
 * Muitos cursos adotam a abordagem de apresentar C++ no mesmo nível de abstração que C. Isso é **muito** equivocado.
   * Os programas em C++ são escritos para a "máquina abstrata" de C++, não para as CPUs da sua sala de aula, e os compiladores * otimizarão o código com as suposições da "máquina abstrata" em mente.
   * C++ permite níveis arbitrariamente altos de abstrações, geralmente sem penalidade de tempo de execução para o código otimizado, tanto para *inlining* quanto para otimização de tempo de linkagem ([*linking*][linking]).
@@ -23,7 +23,7 @@ fornecendo as melhores práticas atualizadas para o ensino.
 * Os autores e designers de C++ criaram as [Diretrizes Principais do C++ (*C++ Core Guidelines*)][cppcoreguidelines], para informar qual é a melhor prática, em um idioma com mais de 40 anos de bagagem herdada.
 * [Collaborative Collection of C++ Best Practices](https://github.com/lefticus/cppbestpractices)
 
-#### 4. Não ensinarei o uso de versões desatualizadas do padrão C++.
+#### 4. Não ensinarei o uso de versões desatualizadas do padrão C++
 * As regras da *ISO* exigem que o **único** padrão válido seja o último disponível.
     * Não construímos casas novas com tomadas elétricas de 50 anos atrás.
 * Existe uma versão nova de C++ a cada três anos aproximadamente: quando os estudantes estiverem no mercado de trabalho, o que foi considerado de vanguarda durante as aulas será o predominante.

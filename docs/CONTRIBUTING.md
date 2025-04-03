@@ -1,11 +1,9 @@
-Como contribuir
-===============
+# Como contribuir
 
 Para contribuir material, basta abrir um Pull Request pelo Github. Para
 facilitar, procure seguir as seguintes recomendações:
 
-Indicações/Links
-----------------
+## Indicações/Links
 
 Para contribuir links, atente que, para links diretos, o material deve estar
 _legalmente disponível de maneira pública e gratuita_. Qualquer material
@@ -28,8 +26,7 @@ específica, exceto se por alguma razão for o único lugar onde o material est�
 disponível.
 
 
-Material Escrito
-----------------
+## Material Escrito
 
 Para contribuir material escrito (guias, tutoriais, listas de dicas, etc.) ao
 repositório, o material deve:
@@ -41,11 +38,10 @@ repositório, o material deve:
 
 No caso do material ser de autoria do contribuidor e não estar indicado como
 estando sob uma licença específica, uma licença específica, ele estará sob a
-licença padrão do repositório, [CC-0](LICENSE).
+licença padrão do repositório, [CC-0](LICENSE.md).
 
 
-Recomendações Gerais
---------------------
+## Recomendações Gerais
 
 - Evite material que coloca C e C++ como simples variantes uma da outra.
   Prefira material que trata as linguagens como independentes e diferentes,

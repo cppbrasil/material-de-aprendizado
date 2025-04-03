@@ -1,0 +1,26 @@
+site_name: Materiais de aprendizado em C e C++
+site_url: http://localhost
+theme: readthedocs
+# use_directory_urls: true
+nav:
+    - Home: README.md
+    - Licença do projeto (CC-0): LICENSE.md
+    - CONTRIBUTING.md
+    - manifesto-de-ensino-em-cpp.md
+    - Materiais de aprendizado em C e C++:
+        - videos_c.md
+        - videos_cpp.md
+        - ebooks_c.md
+        - ebooks_cpp.md
+        - projetos.md
+        - Livros pagos:
+            - livros/livros_c.md
+            - livros/livros_cpp.md
+            - livros/livros_embarcados.md
+            - livros/livros_outros.md
+        - Variados (git, cmake, ferramentas):
+            - Vídeos: variados/videos.md
+            - Ebooks: variados/ebooks.md
+            - Ferramentas: variados/ferramentas.md
+            - Compiladores online: variados/compiladores.md
+            - Conformidade com o padrão C++: variados/conformidade.md
