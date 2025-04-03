@@ -59,6 +59,7 @@ C++
 - [CppCon 2020 - Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
 - [CppCon 2021 - Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT4TJaHBVWzvBOYhp27UO7mI)
 - [CppCon 2022 - Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT47Xpx7Cn-bPw9Qygjr98rs)
+- [CppCon 2023 - Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT6NbFOtrjCep42dSNstruLx)
 - [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
 - [CppCast - Rob Irving and Jason Turner](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA/playlists)
 - [CppNuts - Rupesh Yadav](https://www.youtube.com/user/MrRupeshyadav/playlists)
