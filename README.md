@@ -160,6 +160,7 @@ Outros materiais interessantes
 - [C++ Draft - Rascunho do padrão do C++ (C++next e versões anteriores do standard)](https://eel.is/c++draft)
 - [Designing Qt-Style C++ APIs - Matthias Ettrich](https://doc.qt.io/archives/qq/qq13-apis.html)
 - [Efficient Programming with Components - Justin Meneirs](https://justinmeiners.github.io/efficient-programming-with-components/)
+- [Joint Strike Fighter Air Vehicle C++ Coding Standards For The System Development And Demonstration Program - Lockheed Martin Corporation](https://www.stroustrup.com/JSF-AV-rules.pdf)
 - [Intel® 64 and IA-32 Instruction Set Reference - online](https://namazso.github.io/x86/)
 - [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
 - [Posix Standard](https://pubs.opengroup.org/onlinepubs/9699919799/)
